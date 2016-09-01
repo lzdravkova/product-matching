@@ -1,0 +1,5 @@
+To run:
+- Make sure scala is installed. This was tested with version 2.11.8.
+- Clone the repo
+- In the repo directory run: scala ProductMatching.scala
+- results.txt will be created in the repo directory
